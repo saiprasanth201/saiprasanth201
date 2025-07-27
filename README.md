@@ -46,7 +46,7 @@ const kavitha = {
 ### 🎵 **Fun Side**  
 - 🎤 Singing enthusiast
 - 📝 Writing tech articles
-- 🌟 Open source contributor
+- 🌟 Open source contributo
 
 </td>
 </tr>
