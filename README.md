@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🌟 Hey there! I'm **Kavitha Sai Prasant** 🌟
+# 🌟 Hey there! I'm **Kavitha Sai Prasanth** 🌟
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Full-Stack+Explorer+%F0%9F%9A%80;Music+Lover+%F0%9F%8E%B5" alt="Typing SVG" />
 
