@@ -60,7 +60,7 @@ const kavitha = {
 
 ### **Languages & Frontend Technologies**
 <p>
-  <img src="https://skillicons.dev/icons?i=C,Cpp,python,html,css,js,react,typescript,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,typescript,bootstrap" />
 </p>
 
 ### **Tools & Platforms**
