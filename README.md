@@ -58,19 +58,14 @@ const kavitha = {
 
 <div align="center">
 
-### **Frontend Technologies**
+### **Languages & Frontend Technologies**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,bootstrap" />
-</p>
-
-### **Programming Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,python" />
+  <img src="https://skillicons.dev/icons?i=C,Cpp,python,html,css,js,react,typescript,bootstrap" />
 </p>
 
 ### **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,git,docker" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,git,mysql,docker" />
 </p>
 
 </div>
