@@ -70,7 +70,7 @@ const kavitha = {
 
 ### **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,git,docker" />
 </p>
 
 </div>
