@@ -78,7 +78,7 @@ const kavitha = {
   <img width="49%" src="https://streak-stats.demolab.com/?user=saiprasanth201&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF&v=2" alt="GitHub Streak"/>
 </div>
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiprasanth201&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8&v=2" alt="Top Languages"/>
+  <img width="60%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=saiprasanth201&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
 </div>
 
 
