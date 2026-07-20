@@ -2,7 +2,7 @@
   
 # 🌟 Hey there! I'm **Kavitha Sai Prasanth** 🌟
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Full-Stack+Explorer+%F0%9F%9A%80;Music+Lover+%F0%9F%8E%B5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%92%BB;React+Enthusiast+%E2%9A%9B%EF%B8%8F;Full-Stack+Explorer+%F0%9F%9A%80;Music+Lover+%F0%9F%8E%B5;AI+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
@@ -73,13 +73,15 @@ const kavitha = {
 ---
 
 ## 📊 **GitHub Analytics**
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=saiprasanth201&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=F472B6&text_color=E5E7EB&count_private=true" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=saiprasanth201&theme=tokyonight&hide_border=true&background=0D1117&stroke=A78BFA&ring=F472B6&fire=F472B6&currStreakLabel=E5E7EB&border=0D1117" height="165"/>
 
-<div align="center">
-  <img width="49%" src="https://streak-stats.demolab.com/?user=saiprasanth201&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF&v=2" alt="GitHub Streak"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=saiprasanth201&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&langs_count=8" height="165"/>
 </div>
-<div align="center">
-  <img width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=saiprasanth201&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-</div>
+
+
+
 
 
 ---
